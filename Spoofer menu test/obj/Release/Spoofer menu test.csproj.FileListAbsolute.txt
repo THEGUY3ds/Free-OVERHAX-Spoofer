@@ -1,0 +1,7 @@
+D:\Spoofer menu test\Spoofer menu test\bin\Release\Spoofer menu test.exe.config
+D:\Spoofer menu test\Spoofer menu test\bin\Release\Spoofer menu test.exe
+D:\Spoofer menu test\Spoofer menu test\bin\Release\Spoofer menu test.pdb
+D:\Spoofer menu test\Spoofer menu test\obj\Release\Spoofer menu test.csprojAssemblyReference.cache
+D:\Spoofer menu test\Spoofer menu test\obj\Release\Spoofer menu test.csproj.CoreCompileInputs.cache
+D:\Spoofer menu test\Spoofer menu test\obj\Release\Spoofer menu test.exe
+D:\Spoofer menu test\Spoofer menu test\obj\Release\Spoofer menu test.pdb

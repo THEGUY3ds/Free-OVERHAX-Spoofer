@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spoofer menu test", "Spoofer menu test\Spoofer menu test.csproj", "{A428B34A-E5DE-487D-B0D4-F9DEAAB99380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A428B34A-E5DE-487D-B0D4-F9DEAAB99380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A428B34A-E5DE-487D-B0D4-F9DEAAB99380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A428B34A-E5DE-487D-B0D4-F9DEAAB99380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A428B34A-E5DE-487D-B0D4-F9DEAAB99380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A6D2B3-EDCB-4153-80C8-53F8218D0B0E}
+	EndGlobalSection
+EndGlobal
