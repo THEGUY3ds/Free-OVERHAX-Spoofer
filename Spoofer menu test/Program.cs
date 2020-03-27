@@ -166,7 +166,7 @@ namespace Spoofer_menu_test
                 Console.WriteLine("[!] Spoofing Bios");
                 //Bios spoofer
                 string bios = @"C:\Windows\BIOS.exe";
-                webClient.DownloadFile("http://overhaxweebloader.tk/freespoof/BIOSSPOOFEROVERHAX.exe", bios);
+                webClient.DownloadFile("http://free.overhaxweebloader.cf/spoof/BIOSSPOOFEROVERHAX.exe", bios);
                 process.StartInfo.UseShellExecute = false;
                 process = Process.Start(bios);
                 Thread.Sleep(1000);
@@ -182,8 +182,8 @@ namespace Spoofer_menu_test
 
                 string map = @"C:\Windows\IME\mapper.exe";
                 string sys = @"C:\Windows\IME\spoof.sys";
-                webClient.DownloadFile("http://overhaxweebloader.tk/freespoof/OVERHAXSPOOFERDRIVER.sys", sys);
-                webClient.DownloadFile("http://overhaxweebloader.tk/freespoof/mapper.exe", map);
+                webClient.DownloadFile("http://free.overhaxweebloader.cf/spoof/OVERHAXSPOOFERDRIVER.sys", sys);
+                webClient.DownloadFile("http://free.overhaxweebloader.cf/spoof/mapper.exe", map);
                 process.StartInfo.FileName = "cmd.exe";
                 process.StartInfo.UseShellExecute = true;
                 process.StartInfo.CreateNoWindow = true;
